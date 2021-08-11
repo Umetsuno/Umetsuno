@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 42 Staff :
-[![oghma's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/oghma/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/oghma)](https://github.com/JaeSeoKim/badge42)
