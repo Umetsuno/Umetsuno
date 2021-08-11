@@ -1,10 +1,5 @@
-# <p align="center">
-        Hi 👋, I'm Fabien
-</p>
-
-### <p align="center">
-    **A passionate developper and administrative manager at [42Lyon](https://42lyon.fr/) School.**
-</p>
+# <p style="text-align: center;">Hi 👋, I'm Fabien
+### <p style="text-align: center;">**A passionate developper and administrative manager at [42Lyon](https://42lyon.fr/) School.**
 
 - 🔭 I’m currently working on **a high-perfornance accounting and management software**.
 
