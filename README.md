@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ## 42 Staff :
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/oghma)](https://github.com/JaeSeoKim/badge42)
+cursus=42cursus 
