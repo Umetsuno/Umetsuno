@@ -19,13 +19,7 @@
 
 
 ### **Tools:** 
-<img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
-<img alt="Visual" src="https://img.shields.io/badge/-Visual-6C33AF?style=flat&logo=visual%20studio&logoColor=white" />
-<img alt="OpenBSD" src="https://img.shields.io/badge/-OpenBSD-F2CA30?style=flat&logo=openbsd&logoColor=000000" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/-K8s-46a2f1?style=flat&logo=kubernetes&logoColor=white" />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" /> <img alt="Visual" src="https://img.shields.io/badge/-Visual-6C33AF?style=flat&logo=visual%20studio&logoColor=white" /> <img alt="OpenBSD" src="https://img.shields.io/badge/-OpenBSD-F2CA30?style=flat&logo=openbsd&logoColor=000000" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/-K8s-46a2f1?style=flat&logo=kubernetes&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
 ------------
 
