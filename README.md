@@ -1,7 +1,7 @@
 # <p style="text-align: center;">Hi 👋, I'm Fabien
 ### <p style="text-align: center;">**A passionate developer and administrative manager at [42Lyon](https://42lyon.fr/) School.**
 
-- 🔭 I’m currently working on **a high-perfornance accounting and management software**.
+- 🔭 I’m currently working on **a high-performance accounting and management software**.
 
 - 🌱 I’m currently learning **Rust and Kubernetes**
 
