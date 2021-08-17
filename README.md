@@ -9,8 +9,8 @@
 ![C](https://img.shields.io/badge/--311?logo=c)
 ![C](https://img.shields.io/badge/--00599C?logo=c%2B%2B)
 ![C](https://img.shields.io/badge/--008080?logo=LaTeX)
-![C](https://img.shields.io/badge/--322?logo=PyPI)
 ![C](https://img.shields.io/badge/--000000?logo=Markdown)
+![C](https://img.shields.io/badge/--000000?logo=Python)
 ![C](https://img.shields.io/badge/--000000?logo=Rust)
 
 
