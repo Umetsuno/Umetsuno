@@ -12,7 +12,6 @@
 ![C](https://img.shields.io/badge/--000000?logo=Markdown)
 ![C](https://img.shields.io/badge/--000000?logo=Python)
 ![C](https://img.shields.io/badge/--000000?logo=Rust)
-![C](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)
 
 
 
