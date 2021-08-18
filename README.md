@@ -27,8 +27,7 @@
 
 
 ### **<img height="32" width="32" src="https://simpleicons.org/icons/42.svg"/> Staff:**
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&leet_logo=hide&login=oghma)](https://github.com/mohouyizme/1337-readme)
-
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&leet_logo=hide&login=oghma)](https://github.com/mohouyizme/1337-readme)
 ---------------
 ### **Where to find me:**
 <p><a href="https://github.com/Umetsuno" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
