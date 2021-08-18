@@ -32,7 +32,7 @@
 ---------------
 ### **Where to find me:**
 <p><a href="https://github.com/Umetsuno" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/fabien-herraud" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fabien-herraud-979b25108/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://profile.intra.42.fr/users/oghma" target="_blank"><img alt="42" src="https://img.shields.io/badge/Staff-000000.svg?&style=flat&logo=42&logoColor=white" /></a>
 
 </p>
