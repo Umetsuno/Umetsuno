@@ -1,5 +1,5 @@
 # <p style="text-align: center;">Hi 👋, I'm Fabien
-### <p style="text-align: center;">**A passionate developper and administrative manager at <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>[42Lyon](https://42lyon.fr/) School.**
+### <p style="text-align: center;">**A passionate developer and administrative manager at <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>[42Lyon](https://42lyon.fr/) School.**
 ------
 
 
