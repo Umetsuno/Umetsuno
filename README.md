@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning **Rust and Kubernetes**
 
 ### **Languages:**
-<img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?&style=flat&logo=Rust&logoColor=FFFFFF" /></a>
 <img alt="C" src="https://img.shields.io/badge/C-222222.svg?&style=flat&logo=C&logoColor=A8B9CC" /></a>
+<img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?&style=flat&logo=Rust&logoColor=FFFFFF" /></a>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=FFFFFF" /></a>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=FFFFFF" /></a>
 <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /></a>
