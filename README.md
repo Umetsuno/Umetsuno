@@ -9,8 +9,8 @@
 
 ### **Languages:**
 <img alt="C" src="https://img.shields.io/badge/C-222222.svg?&style=flat&logo=C&logoColor=A8B9CC" /></a>
+<img alt="Go" src="https://img.shields.io/badge/Go-%23316192.svg?&style=flat&logo=Go&logoColor=FFFFFF" /></a>
 <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?&style=flat&logo=Rust&logoColor=FFFFFF" /></a>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=FFFFFF" /></a>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=FFFFFF" /></a>
 <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /></a>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?&style=flat&logo=Markdown&logoColor=FFFFFF" /></a>
