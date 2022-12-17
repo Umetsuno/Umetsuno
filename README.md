@@ -1,37 +1,17 @@
 # <p style="text-align: center;">Hi 👋, I'm Fabien
 ### <p style="text-align: center;">**A passionate developer and IT manager at 42 Lyon School.**
 ------
+# 💫 About Me:
+🔭 I’m currently working on a full revamp of our infrastructure, including CI/CD and Cloud/testing implementation. <br><br>🌱 I’m currently learning Go and deepening my Kubernetes knowledge<br><br>⚡ Working on LPIC and AWS DevOps-related certifications.
 
 
-- 🔭 I’m currently working on a new CI/CD implementation for our infrastructure and a total re-organisation of our databases.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fabien Herraud) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20804083) 
 
-- 🌱 I’m currently learning **Rust and Kubernetes**
-
-### **Languages:**
-<img alt="C" src="https://img.shields.io/badge/C-222222.svg?&style=flat&logo=C&logoColor=A8B9CC" /></a>
-<img alt="Go" src="https://img.shields.io/badge/Go-%23316192.svg?&style=flat&logo=Go&logoColor=FFFFFF" /></a>
-<img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?&style=flat&logo=Rust&logoColor=FFFFFF" /></a>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=FFFFFF" /></a>
-<img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /></a>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?&style=flat&logo=Markdown&logoColor=FFFFFF" /></a>
-
-
-
-
-
-### **Tools:** 
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" /> <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white" /> <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" /> <img alt="Visual" src="https://img.shields.io/badge/-Visual-6C33AF?style=flat&logo=visual%20studio&logoColor=white" /> <img alt="OpenBSD" src="https://img.shields.io/badge/-OpenBSD-F2CA30?style=flat&logo=openbsd&logoColor=000000" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/-K8s-46a2f1?style=flat&logo=kubernetes&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /> <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white" /></a>
-
-------------
-
-
-
-### **<img height="32" width="32" src="https://simpleicons.org/icons/42.svg"/> Staff:**
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&leet_logo=hide&login=oghma)](https://github.com/mohouyizme/1337-readme)
----------------
-### **Where to find me:**
-<p><a href="https://github.com/Umetsuno" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/fabien-herraud-979b25108/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://profile.intra.42.fr/users/oghma" target="_blank"><img alt="42" src="https://img.shields.io/badge/Staff-000000.svg?&style=flat&logo=42&logoColor=white" /></a>
-
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Umetsuno&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Umetsuno&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umetsuno&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  
