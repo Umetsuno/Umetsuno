@@ -2,7 +2,7 @@
 ### <p style="text-align: center;">**A passionate Infrastructure DevOps engineer.**
 ------
 # 💫 About Me:
-🔭 I’m currently working on a full revamp of our infrastructure, including CI/CD and Cloud/testing implementation. <br><br>🌱 I’m currently deepening my AWS, Kubernetes and Terraform knowledge<br><br>⚡ Working on DevOps-related certifications.
+<br><br>🌱 I’m currently deepening my AWS, Kubernetes and Terraform knowledge<br><br>⚡ Working on DevOps-related certifications.
 
 
 ## 🌐 Socials:
