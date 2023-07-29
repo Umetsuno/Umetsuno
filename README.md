@@ -1,8 +1,8 @@
 # <p style="text-align: center;">Hi 👋, I'm Fabien
-### <p style="text-align: center;">**A passionate developer and IT manager at 42 Lyon School.**
+### <p style="text-align: center;">**A passionate Infrastructure DevOps engineer.**
 ------
 # 💫 About Me:
-🔭 I’m currently working on a full revamp of our infrastructure, including CI/CD and Cloud/testing implementation. <br><br>🌱 I’m currently learning Go and deepening my Kubernetes knowledge<br><br>⚡ Working on LPIC and AWS DevOps-related certifications.
+🔭 I’m currently working on a full revamp of our infrastructure, including CI/CD and Cloud/testing implementation. <br><br>🌱 I’m currently deepening my AWS, Kubernetes and Terraform knowledge<br><br>⚡ Working on DevOps-related certifications.
 
 
 ## 🌐 Socials:
