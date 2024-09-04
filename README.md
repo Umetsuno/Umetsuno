@@ -1,5 +1,5 @@
 # <p style="text-align: center;">Hi 👋, I'm Fabien
-### <p style="text-align: center;">**A passionate Infrastructure DevOps engineer.**
+### <p style="text-align: center;">**A passionate DevOps engineer & Cloud Architect.**
 ------
 # 💫 About Me:
 <br><br>🌱 I’m currently deepening my AWS, Kubernetes and Terraform knowledge<br><br>⚡ Working on DevOps-related certifications.
